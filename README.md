@@ -1,1 +1,2 @@
-# ReLife2
+# ReLife
+![Relife](images/Logo.png)
