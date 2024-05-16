@@ -25,3 +25,60 @@ This project addresses the clear need for accessible mental health resources and
 ### Purpose and Functionality
 The purpose of this project is to create a supportive and informative environment that empowers individuals to take control of their mental health and fosters a more connected community. The website's basic functionality includes providing easy access to mental health resources, offering guidance and support, and raising awareness about mental health issues. By mapping these functionalities to the identified problem statement, the project ensures that it effectively addresses the needs and challenges faced by individuals in today's society.
 
+
+
+# Azure Service Implementation
+
+## Azure Core Services
+
+### Azure Static Web App
+
+Azure Static Web Apps is a service that enables you to build modern web applications with static front ends and dynamic back ends powered by Azure Functions.
+
+<img src="Frt2/static web ap.png" alt="Logo" width="500" height="300">
+
+<!-- Add description here -->
+
+### Application Gateway
+
+Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
+
+<img src="Frt2/ap.png" alt="Logo" width="300" height="200">
+<img src="Frt2/vn.png" alt="Logo" width="300" height="200">
+<img src="Frt2/WAF.png" alt="Logo" width="300" height="200">
+
+<!-- Add description here -->
+
+### Storage Accounts
+
+Azure Storage Accounts provide a scalable, secure, and highly available storage solution for your data.
+
+<img src="Frt2/stoage.png" alt="Storeage" width="300" height="200">
+
+The storage is used to store the resources for the chatBot.
+
+<img src="Frt2/storage files table.png" alt="" width="300" height="200">
+
+<!-- Add description here -->
+
+## Azure AI Services
+
+### AI Language Studio
+
+Azure Language Studio is a natural language processing service that allows you to build, train, and deploy custom language models.
+
+<img src="Frt2/language.png" alt="Logo" width="300" height="200">
+<img src="Frt2/Language studio.png" alt="Logo" width="300" height="200">
+
+<!-- Add description here -->
+
+### Custom Questioning Answering (QnA)
+
+Azure Custom Questioning Answering (QnA) is a service that enables you to create question-and-answer systems based on your data.
+
+<img src="Frt2/chatbot.png" alt="chatbot" width="600" height="300">
+
+<!-- Add description here -->
+
+## Website Overlook
+
