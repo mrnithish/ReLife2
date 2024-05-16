@@ -1,2 +1,3 @@
 # ReLife
-![Relife](images/Logo.png)
+<img src="images/Logo.png" alt="Logo" width="300" height="200">
+
