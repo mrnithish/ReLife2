@@ -35,7 +35,7 @@ The purpose of this project is to create a supportive and informative environmen
 
 Azure Static Web Apps is a service that enables you to build modern web applications with static front ends and dynamic back ends powered by Azure Functions.
 
-<img src="Frt2/static web ap.png" alt="Logo" width="700" height="400">
+<img src="Frt2/static web ap.png" alt="static web app" >
 
 <!-- Add description here -->
 
@@ -43,9 +43,9 @@ Azure Static Web Apps is a service that enables you to build modern web applicat
 
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
 
-<img src="Frt2/ap.png" alt="Logo" width="700" height="400">
-<img src="Frt2/vn.png" alt="Logo" width="700" height="500">
-<img src="Frt2/WAF.png" alt="Logo" width="700" height="500">
+<img src="Frt2/ap.png" alt="application gateway" >
+<img src="Frt2/vn.png" alt="virtual network" >
+<img src="Frt2/WAF.png" alt="WAF">
 
 <!-- Add description here -->
 
@@ -53,11 +53,11 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 
 Azure Storage Accounts provide a scalable, secure, and highly available storage solution for your data.
 
-<img src="Frt2/stoage.png" alt="Storeage" width="700" height="500">
+<img src="Frt2/stoage.png" alt="Storage" 
 
 The storage is used to store the resources for the chatBot.
 
-<img src="Frt2/storage files table.png" alt="" width="700" height="500">
+<img src="Frt2/storage files table.png" alt="Source" >
 
 <!-- Add description here -->
 
@@ -67,8 +67,8 @@ The storage is used to store the resources for the chatBot.
 
 Azure Language Studio is a natural language processing service that allows you to build, train, and deploy custom language models.
 
-<img src="Frt2/language.png" alt="Logo" width="700" height="500">
-<img src="Frt2/Language studio.png" alt="Logo" width="700" height="500">
+<img src="Frt2/language.png" alt="Language servvice" >
+<img src="Frt2/Language studio.png" alt="Language Studio" >
 
 <!-- Add description here -->
 
@@ -76,7 +76,7 @@ Azure Language Studio is a natural language processing service that allows you t
 
 Azure Custom Questioning Answering (QnA) is a service that enables you to create question-and-answer systems based on your data.
 
-<img src="Frt2/chatbot.png" alt="chatbot" width="700" height="500">
+<img src="Frt2/chatbot.png" alt="chatbot" >
 
 <!-- Add description here -->
 
