@@ -80,3 +80,7 @@ Azure Custom Questioning Answering (QnA) is a powerful service offered by Azure 
 ## Website Overlook
 
 <img src="Frt2/Weboverview.png" alt="webview" >
+
+### Explaination Video
+
+<video src="https://drive.google.com/file/d/1LoLyhunnLAuUifQuWkMwlRLFcPrSVqTy/view?usp=drive_link" alt =Demo Video>
