@@ -64,7 +64,7 @@ Azure Language Studio is a natural language processing service that allows you t
 
 <img src="Frt2/language.png" alt="Language servvice" >
 
-Azure Language Studio is an advanced natural language processing (NLP) service provided by Azure, designed to enable developers and organizations to build, train, and deploy custom language models tailored to specific linguistic tasks and applications. Language Studio leverages cutting-edge machine learning algorithms and deep neural networks to analyze and understand human language in a variety of contexts, including text comprehension, sentiment analysis, language translation, and more.
+Azure Language Studio is an advanced natural language processing (NLP) service provided by Azure, designed to enable developers and organizations to build, train, and deploy custom language models tailored to specific linguistic tasks and applications. Language Studio leverages cutting-edge machine learning algorithms and deep neural networks to analyze and understand human language in a variety of contexts, including text comprehension, sentiment analysis, language translation and more.
 
 <img src="Frt2/Language studio.png" alt="Language Studio" >
 
