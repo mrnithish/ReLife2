@@ -17,7 +17,7 @@ Our solution involves developing a user-friendly website that offers a variety o
 3. **Mental Health Information**: Comprehensive information about various mental health conditions, symptoms, and treatment options to educate and inform users.
 4. **Spread the Word**: Tools and resources for users to raise awareness about mental health issues within their communities and social networks.
 5. **Bot Service**: An AI-driven chatbot that provides instant information and support regarding mental health queries, helping users navigate the website and find the resources they need.
-6. **Guidance Videos**: A library of videos featuring mental health professionals, motivational speakers, and real-life stories to educate users and provide practical advice on improving mental well-being.
+6. **Guidance Videos**: A library of videos featuring mental health professionals, motivational speakers and real-life stories to educate users and provide practical advice on improving mental well-being.
 
 ### Addressing the Need
 This project addresses the clear need for accessible mental health resources and support. By offering a centralized platform, it ensures that individuals have easy access to information and tools to manage their mental health. The inclusion of self-help resources, community support, and educational materials directly maps to the problem of social isolation and mental health neglect, providing a comprehensive solution that is both practical and impactful.
