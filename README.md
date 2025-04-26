@@ -25,6 +25,7 @@ This project addresses the clear need for accessible mental health resources and
 ### Purpose and Functionality
 The purpose of this project is to create a supportive and informative environment that empowers individuals to take control of their mental health and fosters a more connected community. The website's basic functionality includes providing easy access to mental health resources, offering guidance and support, and raising awareness about mental health issues. By mapping these functionalities to the identified problem statement, the project ensures that it effectively addresses the needs and challenges faced by individuals in today's society.
 
+
 # Azure Service Implementation
 
 ## Azure Core Services
