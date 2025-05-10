@@ -22,6 +22,7 @@ Our solution involves developing a user-friendly website that offers a variety o
 ### Addressing the Need
 This project addresses the clear need for accessible mental health resources and support. By offering a centralized platform, it ensures that individuals have easy access to information and tools to manage their mental health. The inclusion of self-help resources, community support, and educational materials directly maps to the problem of social isolation and mental health neglect, providing a comprehensive solution that is both practical and impactful.
 
+
 ### Purpose and Functionality
 The purpose of this project is to create a supportive and informative environment that empowers individuals to take control of their mental health and fosters a more connected community. The website's basic functionality includes providing easy access to mental health resources, offering guidance and support, and raising awareness about mental health issues. By mapping these functionalities to the identified problem statement, the project ensures that it effectively addresses the needs and challenges faced by individuals in today's society.
 
